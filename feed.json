@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tripti84.github.io",
+    "description": "",
+    "home_page_url": "https://tripticon84.github.io",
+    "feed_url": "https://tripticon84.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yann Cordonnier"
+    },
+    "items": [
+        {
+            "id": "https://tripticon84.github.io/zaza/",
+            "url": "https://tripticon84.github.io/zaza/",
+            "title": "zaza",
+            "summary": "zaeazeaze ffdsfds",
+            "content_html": "\n  <p>\n    zaeazeaze\n  </p>\n\n  <p>\n    ffdsfds\n  </p>",
+            "author": {
+                "name": "Yann Cordonnier"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-20T15:35:50+02:00",
+            "date_modified": "2022-05-20T15:35:50+02:00"
+        }
+    ]
+}

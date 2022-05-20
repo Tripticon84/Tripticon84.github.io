@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>tripti84.github.io</title>
+    <link href="https://tripticon84.github.io/feed.xml" rel="self" />
+    <link href="https://tripticon84.github.io" />
+    <updated>2022-05-20T15:35:50+02:00</updated>
+    <author>
+        <name>Yann Cordonnier</name>
+    </author>
+    <id>https://tripticon84.github.io</id>
+
+    <entry>
+        <title>zaza</title>
+        <author>
+            <name>Yann Cordonnier</name>
+        </author>
+        <link href="https://tripticon84.github.io/zaza/"/>
+        <id>https://tripticon84.github.io/zaza/</id>
+
+        <updated>2022-05-20T15:35:50+02:00</updated>
+            <summary>
+                <![CDATA[
+                    zaeazeaze ffdsfds
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    zaeazeaze
+  </p>
+
+  <p>
+    ffdsfds
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
