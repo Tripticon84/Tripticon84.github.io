@@ -1,2 +1,2 @@
-# Tripticon84.github.io
-Personal website
+# tripticon84.github.io
+My personal website 
